@@ -1,7 +1,9 @@
 # Project Title
 BEIT-PROJECT_16_Web-Based-Student-Helpdesk-System
 # Project Members
-Nilesh Yadav, Amol Beldar Beldar and Viraj Ghag.
+1) Nilesh Yadav 
+2) Amol Beldar Beldar 
+3) Viraj Ghag
 # Brief
   As we see in our day to day college life we may notice students facing some kinds of problems
 which they may not directly convey it to the teachers due to many reasons.Hence to over-
