@@ -19,7 +19,7 @@ to give there suggestions or requests for particular activities that the student
 on college/departmental or personal basis as well.We will be making a website for an online
 complaint management system where the issues of the student can be registered online and
 will be resolved by the college authorities.This web application can reduce the gap between
-the student and the college sta as all the requests,complaints suggestions etc will be confi
+the student and the college staff as all the requests,complaints suggestions etc will be confi
 dential and only the authorised person or the person who is intended to the requests can be
 able to view it.
 The main objective behind building this project is to reduce the communication gap be-
