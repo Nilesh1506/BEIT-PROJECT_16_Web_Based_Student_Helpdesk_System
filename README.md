@@ -1,4 +1,4 @@
-# BEIT-PROJECT_16_Web_Based_Student_Helpdesk_System
+# BEIT-PROJECT_16_Web-Based-Student-Helpdesk-System
 Project by Nilesh Yadav, Amol Beldar Beldar and Viraj Ghag.
 As we see in our day to day college life we may notice students facing some kinds of problems
 which they may not directly convey it to the teachers due to many reasons.Hence to over-
